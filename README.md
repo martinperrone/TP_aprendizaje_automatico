@@ -83,7 +83,11 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
   - Sklearn
   -     pip install -U scikit-learn
   - Numpy
-  -     pip install numpy  
+  -     pip install numpy
+  - Keras
+  -     pip install keras
+  - Tensorflow
+  -     install tensorflow
   
 ### Pasos a seguir:
 
