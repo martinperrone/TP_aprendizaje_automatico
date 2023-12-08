@@ -80,7 +80,7 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
   - Sklearn      pip install -U scikit-learn
   - Numpy        pip install numpy  
   
-
+### Pasos a seguir:
 1. URL https://github.com/martinperrone/trabajopracticofinal.git
 2. Descargar los archivos:
    - app.py
