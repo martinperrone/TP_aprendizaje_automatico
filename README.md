@@ -72,6 +72,15 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
 <br><br>
 
 ### Modo de uso:
+#### Software y Librerías necesarios:
+  - Python versión 3.10.4 o superior
+  - Streamlit    pip install streamlit
+  - Joblib       pip install joblib
+  - Pandas       pip install pandas
+  - Sklearn      pip install -U scikit-learn
+  - Numpy        pip install numpy  
+  
+
 1. URL https://github.com/martinperrone/trabajopracticofinal.git
 2. Descargar los archivos:
    - app.py
