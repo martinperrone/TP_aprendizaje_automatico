@@ -21,47 +21,47 @@ Estudiantes:
   </tr>
   <tr>
     <td><b>Humidity</b></td>
-    <td>Describes the amount of fixed acids within the wine, such as tartaric and malic acid.</td>
+    <td>Cantidad de humedad del día (0.01 / 100) </td>
   </tr>
   <tr>
     <td><b>Pressure</b></td>
-    <td>Describes the amount of volatile acids in the wine, such as acetic acid.</td>
+    <td>Valor de la presión del día (100 / 1100)</td>
   </tr>
   <tr>
     <td><b>Cloud</b></td>
-    <td>An organic acid found in citrus fruits, which can add a tangy flavor to the wine.</td>
+    <td>Nubosidad del día (0.01 / 10)</td>
   </tr>
   <tr>
     <td><b>MinTemp</b></td>
-    <td>Describes the amount of unfermented sugar in the wine, which impacts the taste and sweetness of the wine.</td>
+    <td>Temperatura mínima del día (-10 / 55)</td>
   </tr>
   <tr>
     <td><b>MaxTemp</b></td>
-    <td>Describes the amount of salt present in the wine.</td>
+    <td>Temperatura máxima del día (-10 / 55)</td>
   </tr>
   <tr>
     <td><b>Rainfall</b></td>
-    <td>Describes the sulfur dioxide that hasn't reacted to other components in the wine.</td>
+    <td>Cantidad de lluvia del día (0.01 / 400)</td>
   </tr>
   <tr>
     <td><b>WindSpeed</b></td>
-    <td>Describes the total amount of sulfur dioxide, including the free and bound forms.</td>
+    <td>Velocidad del viento (0.01 / 200)</td>
   </tr>
   <tr>
     <td><b>Temp</b></td>
-    <td>Describes a correlation between the wine's alcoholic content and the types of grapes used to make it.</td>
+    <td>Temperatura promedio (-10 / 55)</td>
   </tr>
   <tr>
     <td><b>WindDir</b></td>
-    <td>A measure of the acidity or basicity of the wine.</td>
+    <td>Dirección del viento (N,S,E,O)</td>
   </tr>
   <tr>
     <td><b>Estacion</b></td>
-    <td>A type of salt used for preservation in wine, which can also affect its taste.</td>
+    <td>Estación del año.</td>
   </tr>
   <tr>
     <td><b>RainToday</b></td>
-    <td>Describes the percentage of alcohol in the wine, which impacts its flavor and body.</td>
+    <td>Informar si llovió en el día (Yes / No)</td>
   </tr>
   </tr>
 </table>
