@@ -5,6 +5,11 @@
 
 ## Trabajo Práctico: Predicción de lluvia en Australia.
 
+Estudiantes:
+
+* Alomar, Francisco J.
+* Perrone, Martín L.
+
 
 <h1>🌧️ App de predicción de lluvia en Australia 🌧️</h1><br>
 
