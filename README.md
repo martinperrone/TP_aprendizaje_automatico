@@ -71,5 +71,13 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
 </table>
 <br><br>
 
-MODO DE USO 
+### Modo de uso:
+1. URL https://github.com/martinperrone/trabajopracticofinal.git
+2. Descargar los archivos:
+   - app.py
+   - clases_y_funciones.py
+   - lluvia_australia_clas_prediction.pkl
+   - lluvia_australia_reg_prediction.pkl
+
+
 
