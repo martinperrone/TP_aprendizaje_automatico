@@ -94,6 +94,7 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
    - lluvia_australia_reg_prediction.pkl
 3. Ejecutar por consola la app con el siguiente comando: python.exe -m streamlit run app.py
 4. Elegir los valores de las features
+![captura de pantalla(1)](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/032f2ab8-78f3-4b64-9f4b-760ed49965d3)
 
        
 
