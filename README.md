@@ -10,6 +10,10 @@ Estudiantes:
 * Alomar, Francisco J.
 * Perrone, Martín L.
 
+El objetivo del trabajo práctico es utilizar los datos proporcionados en el dataset de nombre weatherAUS.csv, que contiene información climática de Australia de los últimos diez años, para hacer una app que predice si llueve y la cantidad de lluvia.
+Realizamos el análisis y tratamiento de los datos, selección de características para la predicción y probamos diferentes modelos de aprendizaje automático (regresión lineal y logística, regulación, redes neuronales) para obtener el de mejor funcionamiento. Todo esto lo hicimos en una notebook con Google Colaboratory, de nombre tp_aprendizaje_entrega_final.ipynb, del que exportamos dos pipelines con los modelos de clasificación y regresión de redes neuronales entrenados en los archivos lluvia_australia_clas_prediction.pkl y lluvia_australia_reg_prediction.pkl respectivamente. 
+Luego generamos la app de predicción de lluvia utilizando la librería streamlit de pyhton, que importa los pipelines generados para realizar las predicciones con los datos nuevos.
+
 
 <h1>🌧️ App de predicción de lluvia en Australia 🌧️</h1><br>
 
