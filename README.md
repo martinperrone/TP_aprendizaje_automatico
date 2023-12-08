@@ -74,11 +74,16 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
 ### Modo de uso:
 #### Software y Librerías necesarios:
   - Python versión 3.10.4 o superior
-  - Streamlit    pip install streamlit
-  - Joblib       pip install joblib
-  - Pandas       pip install pandas
-  - Sklearn      pip install -U scikit-learn
-  - Numpy        pip install numpy  
+  - Streamlit
+  -      pip install streamlit
+  - Joblib
+  -     pip install joblib
+  - Pandas
+  -     pip install pandas
+  - Sklearn
+  -     pip install -U scikit-learn
+  - Numpy
+  -     pip install numpy  
   
 ### Pasos a seguir:
 1. URL https://github.com/martinperrone/trabajopracticofinal.git
@@ -89,4 +94,5 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
    - lluvia_australia_reg_prediction.pkl
 3. Ejecutar por consola la app con el siguiente comando: python.exe -m streamlit run app.py
 
+       
 
