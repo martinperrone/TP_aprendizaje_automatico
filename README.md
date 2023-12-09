@@ -91,7 +91,7 @@ Luego generamos la app de predicción de lluvia utilizando la librería streamli
   
 ### Pasos a seguir:
 
-1. URL https://github.com/martinperrone/trabajopracticofinal.git
+1. URL https://github.com/martinperrone/TP_aprendizaje_automatico
 
 2. Descargar los archivos:
    - app.py
